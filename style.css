@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&family=Poppins:wght@400;500;700&family=Tiro+Tamil&display=swap');
-
-.carousel-caption{
-    bottom:180px;
-    padding-left:100px;
-    padding-right: 100px;
-    ;
-}
+.primary-color{
+    color: #289BDE;
+  }
+  
+  .primary-bg {
+    background: #289BDE;
+  }
